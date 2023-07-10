@@ -14,6 +14,7 @@ py main.py
 ```sh
 git clone
 cd App
+py -m venv env-app
 . env-app/Script/activate 
 pip install -r requirements.txt
 deactivate
