@@ -17,8 +17,25 @@ cd App
 py -m venv env-app
 . env-app/Script/activate 
 pip install -r requirements.txt
-deactivate
 py main.py
 ```
 
+# Charts Project
+
+```sh
+git clone
+cd game
+py main.py
+```
+
+# Web-server Project
+
+```sh
+git clone
+cd web-server
+py -m venv env-web
+. env-web/Script/activate 
+pip install -r requirements.txt
+py main.py
+```
 NOTA: Los comando utilizados en estas intrucciones para poder ejecutar los archivos principales de los distintos proyectos corresponden al lenguaje de bash en Windows (Git Bash).
