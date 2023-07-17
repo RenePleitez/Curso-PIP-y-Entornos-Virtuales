@@ -83,7 +83,7 @@ docker-compose up -d
 docker-compose ps
 ```
 
-Desde el navegador, hay que ingresar a la dirección 'localhost' y/o 'localhost/contact' para ver los resultados del proyecto. Al terminar se recomienda dejar de ejecutar el contenedor con:
+Desde el navegador, hay que ingresar a la dirección 'localhost:8000' y/o 'localhost:8000/contact' para ver los resultados del proyecto. Al terminar se recomienda dejar de ejecutar el contenedor con:
 
 ```sh
 docker-compose down
