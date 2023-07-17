@@ -42,6 +42,7 @@ python main.py
 Al terminar se recomienda dejar de ejecutar el contenedor con:
 
 ```sh
+exit
 docker-compose down
 ```
 
